@@ -1,0 +1,43 @@
+.pyramid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .level {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+  }
+  
+  .level img {
+    width: 660px;
+    height: 404px;
+    background: url(image.png);
+  }
+  
+  .level-1 img {
+    width: 851px;
+    height: 421px;
+    background: url(image.png);
+  }
+  
+  .level-2 img {
+    width: 627px;
+    height: 501px;
+    background: url(image.png);
+    border-radius: 70px;
+  }
+  
+  .level-3 img {
+    width: 737px;
+    height: 430px;
+    background: url(image.png);
+  }
+  
+  .level-4 img {
+    width: 797px;
+    height: 523px;
+    background: url(image.png);
+  }
+  
